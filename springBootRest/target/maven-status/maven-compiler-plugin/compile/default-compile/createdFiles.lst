@@ -1,0 +1,5 @@
+com/francisco/springBootRest/repository/StudentRepository.class
+com/francisco/springBootRestexample/StudentApplication.class
+com/francisco/springBootRest/controller/StudentController.class
+com/francisco/springBootRest/model/Student.class
+com/francisco/springBootRest/dao/StudentDao.class
