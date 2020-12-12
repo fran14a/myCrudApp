@@ -1,4 +1,5 @@
 # myCrudApp
+This is a CRUD application written in Java
 CRUD приложение на Java
 
 **Instructions for the task:**
